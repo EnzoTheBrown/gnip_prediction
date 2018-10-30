@@ -1,0 +1,6 @@
+boto3
+botocore
+scikit-learn
+pandas
+numpy
+click
